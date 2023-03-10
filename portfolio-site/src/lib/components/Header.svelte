@@ -20,5 +20,5 @@
 <header>
     <NavLink name="rupert-fred" href="/" />
     <Navigation />
-    <NavLink href="https://rupert-fred.github.io" icon="fab fa-github" />
+    <NavLink href="https://github.com/rupert-fred" icon="fab fa-github" />
 </header>
