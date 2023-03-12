@@ -2,6 +2,7 @@
     export let name;
     export let href;
     export let icon;
+    export let icon_size;
 </script>
 
 <style lang="scss">
@@ -10,6 +11,10 @@
         text-shadow: #000 1px 1px, #000 0 0 0.25rem;
         font-size: 1.5rem;
         text-decoration: none;
+
+        &:hover {
+            text-shadow: #1b7cd0 1px 1px, #1b7cd0 0 0 0.25rem;
+        }
     }
 
     i {
